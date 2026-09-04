@@ -1,8 +1,8 @@
-# 🎵 Mateus Music - Desafio de Desenvolvimento Web
+# 🎵 Luis music - Desafio de Desenvolvimento Web
 
 ## 🎯 Contexto do Projeto
 
-**Você foi contratado pela Mateus Music**, uma empresa inovadora no segmento de streaming musical, para desenvolver uma plataforma web moderna que exiba o catálogo musical completo da empresa. 
+**Você foi contratado pela Luis music**, uma empresa inovadora no segmento de streaming musical, para desenvolver uma plataforma web moderna que exiba o catálogo musical completo da empresa. 
 
 A Mateus Music possui um acervo impressionante de **mais de 20.000 músicas** e precisa de uma interface elegante e funcional para apresentar esse conteúdo aos usuários.
 
